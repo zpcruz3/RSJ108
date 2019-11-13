@@ -2,3 +2,8 @@
 An Instruction Challenge for JOUR108
 
 University of Nevada, Reno
+
+
+1. Open index.html.
+
+2. Edit according to the instructions within the file.
