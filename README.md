@@ -1,6 +1,7 @@
 # RSJ108
 An Instruction Challenge for JOUR108
 
+Reynolds School of Journalism
 University of Nevada, Reno
 
 
